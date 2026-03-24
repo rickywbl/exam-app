@@ -1,0 +1,35 @@
+# 依赖
+node_modules/
+
+# 编译输出
+unpackage/
+dist/
+build/
+
+# 开发工具
+.DS_Store
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# 日志
+logs/
+*.log
+npm-debug.log*
+
+# 临时文件
+.cache/
+.temp/
+
+# uni-app 特定
+.hbuilderx/
+
+# React Native 特定
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
